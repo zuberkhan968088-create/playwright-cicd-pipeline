@@ -1,0 +1,24 @@
+{
+  "name": "playwright-cicd-pipeline",
+  "version": "1.0.0",
+  "description": "Playwright TypeScript Automation with GitHub Actions CI/CD Pipeline",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuberkhan968088-create/playwright-cicd-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zuberkhan968088-create/playwright-cicd-pipeline/issues"
+  },
+  "homepage": "https://github.com/zuberkhan968088-create/playwright-cicd-pipeline#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.10",
+    "typescript": "^7.0.2"
+  }
+}
